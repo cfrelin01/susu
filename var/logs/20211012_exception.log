@@ -1,0 +1,72 @@
+*ERROR* 	v1.7.7.7	2021/10/12 - 15:30:57: Erreur de syntaxe pr&egrave;s de &#039;on me donne et que j&#039;adore! Je suis n&eacute;e au sein d&rsquo; une famille tr&egrave;s unie ou &#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12 col-xs-12&quot;&gt;
+&lt;div class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/pos_ecolife_fastfood/img/cms/6_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12  col-xs-12&quot;&gt;
+&lt;p&gt;Susu est juste mon petit surnom qu&#039;on me donne et que j&#039;adore! Je suis n&eacute;e au sein d&rsquo; une famille tr&egrave;s unie ou l&rsquo; essentielle est de se faire plaisir et surtout faire plaisir et savoir recevoir. Depuis mon enfance, j&#039;&eacute;volue dans un milieu de bons vivants, j&#039;aime la bonne nourriture et les bons produits. Une veritable passion pour la cuisine et des bonnes recettes qui m&#039;ont &eacute;t&eacute; transmises par ma Maman, ma Tatan et ma Nounou. Je prends un vrai plaisir &agrave; cuisiner pour mes proches et c&#039;est derri&egrave;re les fourneaux que je me sens le mieux. Ayant termin&eacute; mes &eacute;tudes &agrave; l&#039;Institut Paul BOCUSE, aujourd&#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui sont bonnes pour se rassembler autour d&#039;un moment convivial on peut compter sur Susu. Je vous propose une cuisine simple avec des produits frais et peu transform&eacute;s.Tout est pr&eacute;par&eacute; par mes propres soins et je m&#039;adapte &agrave; vos envies&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 4 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/10/12 - 15:32:14: Erreur de syntaxe pr&egrave;s de &#039;on me donne et que j&#039;adore! Je suis n&eacute;e au sein d&#039;une famille tr&egrave;s unie ou l&#039;e&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12 col-xs-12&quot;&gt;
+&lt;div class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/pos_ecolife_fastfood/img/cms/6_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12  col-xs-12&quot;&gt;
+&lt;p&gt;Susu est juste mon petit surnom qu&#039;on me donne et que j&#039;adore! Je suis n&eacute;e au sein d&#039;une famille tr&egrave;s unie ou l&#039;essentielle est de se faire plaisir et surtout faire plaisir et savoir recevoir. Depuis mon enfance, j&#039;&eacute;volue dans un milieu de bons vivants, j&#039;aime la bonne nourriture et les bons produits. Une veritable passion pour la cuisine et des bonnes recettes qui m&#039;ont &eacute;t&eacute; transmises par ma Maman, ma Tatan et ma Nounou. Je prends un vrai plaisir &agrave; cuisiner pour mes proches et c&#039;est derri&egrave;re les fourneaux que je me sens le mieux. Ayant termin&eacute; mes &eacute;tudes &agrave; l&#039;Institut Paul BOCUSE, aujourd&#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui sont bonnes pour se rassembler autour d&#039;un moment convivial on peut compter sur Susu. Je vous propose une cuisine simple avec des produits frais et peu transform&eacute;s.Tout est pr&eacute;par&eacute; par mes propres soins et je m&#039;adapte &agrave; vos envies&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 4 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/10/12 - 15:39:00: Erreur de syntaxe pr&egrave;s de &#039;on me donne et que j&#039;adore! Je suis n&eacute;e au sein d&rsquo;une famille tr&egrave;s unie ou l&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12 col-xs-12&quot;&gt;
+&lt;div class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/pos_ecolife_fastfood/img/cms/6_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12  col-xs-12&quot;&gt;
+&lt;p&gt;Susu est juste mon petit surnom qu&#039;on me donne et que j&#039;adore! Je suis n&eacute;e au sein d&rsquo;une famille tr&egrave;s unie ou l&rsquo;essentielle est de se faire plaisir et surtout faire plaisir et savoir recevoir. Depuis mon enfance, j&#039;&eacute;volue dans un milieu de bons vivants, j&#039;aime la bonne nourriture et les bons produits. Une veritable passion pour la cuisine et des bonnes recettes qui m&#039;ont &eacute;t&eacute; transmises par ma Maman, ma Tatan et ma Nounou. Je prends un vrai plaisir &agrave; cuisiner pour mes proches et c&#039;est derri&egrave;re les fourneaux que je me sens le mieux. Ayant termin&eacute; mes &eacute;tudes &agrave; l&#039;Institut Paul BOCUSE, aujourd&#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui sont bonnes pour se rassembler autour d&#039;un moment convivial on peut compter sur Susu. Je vous propose une cuisine simple avec des produits frais et peu transform&eacute;s.Tout est pr&eacute;par&eacute; par mes propres soins et je m&#039;adapte &agrave; vos envies&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 4 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/10/12 - 15:40:29: Erreur de syntaxe pr&egrave;s de &#039;&eacute;volue dans un milieu de bons vivants, j&#039;aime la bonne nourriture et les bons p&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12 col-xs-12&quot;&gt;
+&lt;div class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/pos_ecolife_fastfood/img/cms/6_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12  col-xs-12&quot;&gt;
+&lt;p&gt;Susu est juste mon petit surnom qu on me donne et que j adore! Je suis n&eacute;e au sein d une famille tr&egrave;s unie ou l essentielle est de se faire plaisir et surtout faire plaisir et savoir recevoir. Depuis mon enfance, j&#039;&eacute;volue dans un milieu de bons vivants, j&#039;aime la bonne nourriture et les bons produits. Une veritable passion pour la cuisine et des bonnes recettes qui m ont &eacute;t&eacute; transmises par ma Maman, ma Tatan et ma Nounou. Je prends un vrai plaisir &agrave; cuisiner pour mes proches et c est derri&egrave;re les fourneaux que je me sens le mieux. Ayant termin&eacute; mes &eacute;tudes &agrave; l Institut Paul BOCUSE, aujourd&#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui sont bonnes pour se rassembler autour d un moment convivial on peut compter sur Susu. Je vous propose une cuisine simple avec des produits frais et peu transform&eacute;s.Tout est pr&eacute;par&eacute; par mes propres soins et je m adapte &agrave; vos envies&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 4 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/10/12 - 15:40:51: Erreur de syntaxe pr&egrave;s de &#039;aime la bonne nourriture et les bons produits. Une veritable passion pour la cui&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12 col-xs-12&quot;&gt;
+&lt;div class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/pos_ecolife_fastfood/img/cms/6_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12  col-xs-12&quot;&gt;
+&lt;p&gt;Susu est juste mon petit surnom qu on me donne et que j adore! Je suis n&eacute;e au sein d une famille tr&egrave;s unie ou l essentielle est de se faire plaisir et surtout faire plaisir et savoir recevoir. Depuis mon enfance, j &eacute;volue dans un milieu de bons vivants, j&#039;aime la bonne nourriture et les bons produits. Une veritable passion pour la cuisine et des bonnes recettes qui m ont &eacute;t&eacute; transmises par ma Maman, ma Tatan et ma Nounou. Je prends un vrai plaisir &agrave; cuisiner pour mes proches et c est derri&egrave;re les fourneaux que je me sens le mieux. Ayant termin&eacute; mes &eacute;tudes &agrave; l Institut Paul BOCUSE, aujourd&#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui sont bonnes pour se rassembler autour d un moment convivial on peut compter sur Susu. Je vous propose une cuisine simple avec des produits frais et peu transform&eacute;s.Tout est pr&eacute;par&eacute; par mes propres soins et je m adapte &agrave; vos envies&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 4 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/10/12 - 15:41:12: Erreur de syntaxe pr&egrave;s de &#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui s&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12 col-xs-12&quot;&gt;
+&lt;div class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/pos_ecolife_fastfood/img/cms/6_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-6 col-sm-12  col-xs-12&quot;&gt;
+&lt;p&gt;Susu est juste mon petit surnom qu on me donne et que j adore! Je suis n&eacute;e au sein d une famille tr&egrave;s unie ou l essentielle est de se faire plaisir et surtout faire plaisir et savoir recevoir. Depuis mon enfance, j &eacute;volue dans un milieu de bons vivants, j aime la bonne nourriture et les bons produits. Une veritable passion pour la cuisine et des bonnes recettes qui m ont &eacute;t&eacute; transmises par ma Maman, ma Tatan et ma Nounou. Je prends un vrai plaisir &agrave; cuisiner pour mes proches et c est derri&egrave;re les fourneaux que je me sens le mieux. Ayant termin&eacute; mes &eacute;tudes &agrave; l Institut Paul BOCUSE, aujourd&#039;hui je me lance &agrave; la conqu&ecirc;te de vos papilles! Pour toutes les occasions qui sont bonnes pour se rassembler autour d un moment convivial on peut compter sur Susu. Je vous propose une cuisine simple avec des produits frais et peu transform&eacute;s.Tout est pr&eacute;par&eacute; par mes propres soins et je m adapte &agrave; vos envies&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 4 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php

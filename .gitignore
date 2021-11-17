@@ -1,0 +1,12 @@
+/.buildpath
+/.cache
+/.metadata
+/.project
+/.settings
+/.vscode
+
+/.idea
+/.gitattributes
+
+/node_modules
+/.history

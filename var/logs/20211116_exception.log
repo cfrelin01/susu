@@ -1,0 +1,270 @@
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:15:28: Erreur de syntaxe pr&egrave;s de &#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu &#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:18:38: Erreur de syntaxe pr&egrave;s de &#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu &#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:21:01: Erreur de syntaxe pr&egrave;s de &#039;\&#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col co&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = \&#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;\&#039;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:21:25: Erreur de syntaxe pr&egrave;s de &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:21:51: Erreur de syntaxe pr&egrave;s de &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:23:52: Erreur de syntaxe pr&egrave;s de &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:24:00: Erreur de syntaxe pr&egrave;s de &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:24:31: Erreur de syntaxe pr&egrave;s de &#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu &#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:24:51: Erreur de syntaxe pr&egrave;s de &#039;\&quot;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col co&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = \&quot;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;\&quot;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:27:25: Erreur de syntaxe pr&egrave;s de &#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu &#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &#039;&lt;div class=&quot;home-banner banner-bottom&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col col-md-8 col-sm-12  col-xs-12&quot;&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu est un service t&#039;raiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez &quot;Lunch&quot; pour le midi, les &quot;Banquet&quot; pour vos &eacute;v&egrave;nements et le &quot;Brunch&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=&quot;padding-bottom: 3%;&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col col-md-4 col-sm-12 col-xs-12&quot;&gt;
+&lt;div style=&quot;padding-right: 8%; text-align: center;&quot; class=&quot;banner-box&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&quot; width=&quot;204&quot; height=&quot;412&quot; style=&quot;width: auto;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&#039;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:28:44: Erreur de syntaxe pr&egrave;s de &#039;&amp;lt;div class=&amp;quot;home-banner banner-bottom&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &amp;lt;div class=&amp;quot;home-banner banner-bottom&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;col col-md-8 col-sm-12  col-xs-12&amp;quot;&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;By Susu est un service t&amp;#039;raiteur bas&amp;eacute; &amp;agrave; Lyon et s adapte &amp;agrave; vous et &amp;agrave; vos moments. La cuisine by Susu s adresse &amp;agrave; tous, les particuliers, les professionnels, les associations...&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;La cuisine est faite pour vous et se d&amp;eacute;place pour vos &amp;eacute;v&amp;egrave;nements. Rien n est fig&amp;eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&amp;eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;By Susu vous se d&amp;eacute;cline en plusieurs axes: d&amp;eacute;couvrez &amp;quot;Lunch&amp;quot; pour le midi, les &amp;quot;Banquet&amp;quot; pour vos &amp;eacute;v&amp;egrave;nements et le &amp;quot;Brunch&amp;quot; pour le dimanche.&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&amp;nbsp;&amp;lt;/h2&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;col col-md-4 col-sm-12 col-xs-12&amp;quot;&amp;gt;
+&amp;lt;div style=&amp;quot;padding-right: 8%; text-align: center;&amp;quot; class=&amp;quot;banner-box&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&amp;quot; width=&amp;quot;204&amp;quot; height=&amp;quot;412&amp;quot; style=&amp;quot;width: auto;&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:30:14: Erreur de syntaxe pr&egrave;s de &#039;&amp;lt;div class=&amp;quot;home-banner banner-bottom&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &amp;lt;div class=&amp;quot;home-banner banner-bottom&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;col col-md-8 col-sm-12  col-xs-12&amp;quot;&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;By Susu est un service t&amp;#039;raiteur bas&amp;eacute; &amp;agrave; Lyon et s adapte &amp;agrave; vous et &amp;agrave; vos moments. La cuisine by Susu s adresse &amp;agrave; tous, les particuliers, les professionnels, les associations...&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;La cuisine est faite pour vous et se d&amp;eacute;place pour vos &amp;eacute;v&amp;egrave;nements. Rien n est fig&amp;eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&amp;eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;By Susu vous se d&amp;eacute;cline en plusieurs axes: d&amp;eacute;couvrez &amp;quot;Lunch&amp;quot; pour le midi, les &amp;quot;Banquet&amp;quot; pour vos &amp;eacute;v&amp;egrave;nements et le &amp;quot;Brunch&amp;quot; pour le dimanche.&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&amp;nbsp;&amp;lt;/h2&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;col col-md-4 col-sm-12 col-xs-12&amp;quot;&amp;gt;
+&amp;lt;div style=&amp;quot;padding-right: 8%; text-align: center;&amp;quot; class=&amp;quot;banner-box&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&amp;quot; width=&amp;quot;204&amp;quot; height=&amp;quot;412&amp;quot; style=&amp;quot;width: auto;&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:30:36: Erreur de syntaxe pr&egrave;s de &#039;&amp;lt;div class=&amp;quot;home-banner banner-bottom&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &amp;lt;div class=&amp;quot;home-banner banner-bottom&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;col col-md-8 col-sm-12  col-xs-12&amp;quot;&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;By S&amp;#039;usu est un service traiteur bas&amp;eacute; &amp;agrave; Lyon et s adapte &amp;agrave; vous et &amp;agrave; vos moments. La cuisine by Susu s adresse &amp;agrave; tous, les particuliers, les professionnels, les associations...&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;La cuisine est faite pour vous et se d&amp;eacute;place pour vos &amp;eacute;v&amp;egrave;nements. Rien n est fig&amp;eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&amp;eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;By Susu vous se d&amp;eacute;cline en plusieurs axes: d&amp;eacute;couvrez &amp;quot;Lunch&amp;quot; pour le midi, les &amp;quot;Banquet&amp;quot; pour vos &amp;eacute;v&amp;egrave;nements et le &amp;quot;Brunch&amp;quot; pour le dimanche.&amp;lt;/h2&amp;gt;
+&amp;lt;h2 style=&amp;quot;padding-bottom: 3%;&amp;quot;&amp;gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&amp;nbsp;&amp;lt;/h2&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;col col-md-4 col-sm-12 col-xs-12&amp;quot;&amp;gt;
+&amp;lt;div style=&amp;quot;padding-right: 8%; text-align: center;&amp;quot; class=&amp;quot;banner-box&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://127.0.0.1:8080/susu/img/cms/2_1.png&amp;quot; width=&amp;quot;204&amp;quot; height=&amp;quot;412&amp;quot; style=&amp;quot;width: auto;&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:32:43: Erreur de syntaxe pr&egrave;s de &#039;==
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang`&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = PGRpdiBjbGFzcz0iaG9tZS1iYW5uZXIgYmFubmVyLWJvdHRvbSI+DQo8ZGl2IGNsYXNzPSJyb3ciPg0KPGRpdiBjbGFzcz0iY29sIGNvbC1tZC04IGNvbC1zbS0xMiAgY29sLXhzLTEyIj4NCjxoMiBzdHlsZT0icGFkZGluZy1ib3R0b206IDMlOyI+QnkgUyd1c3UgZXN0IHVuIHNlcnZpY2UgdHJhaXRldXIgYmFzw6kgw6AgTHlvbiBldCBzIGFkYXB0ZSDDoCB2b3VzIGV0IMOgIHZvcyBtb21lbnRzLiBMYSBjdWlzaW5lIGJ5IFN1c3UgcyBhZHJlc3NlIMOgIHRvdXMsIGxlcyBwYXJ0aWN1bGllcnMsIGxlcyBwcm9mZXNzaW9ubmVscywgbGVzIGFzc29jaWF0aW9ucy4uLjwvaDI+DQo8aDIgc3R5bGU9InBhZGRpbmctYm90dG9tOiAzJTsiPkxhIGN1aXNpbmUgZXN0IGZhaXRlIHBvdXIgdm91cyBldCBzZSBkw6lwbGFjZSBwb3VyIHZvcyDDqXbDqG5lbWVudHMuIFJpZW4gbiBlc3QgZmlnw6kgZXQgdm9zIGVudmllcyBzb250IG1lcyBhbWJpdGlvbnMuIEJ5IFN1c3Ugdm91cyBwcm9wb3NlIGRlcyBwbGF0cyBsaXZyw6lzIGNsZWYgZW4gbWFpbiBhdmVjIGNvbW1lIGxpZ25lIGRlIGNvbmR1aXRlOiBkZXMgcHJvZHVpdHMgbG9jYXV4IGV0IGR1IDEwMCUgZmFpdCBtYWlzb248L2gyPg0KPGgyIHN0eWxlPSJwYWRkaW5nLWJvdHRvbTogMyU7Ij5CeSBTdXN1IHZvdXMgc2UgZMOpY2xpbmUgZW4gcGx1c2lldXJzIGF4ZXM6IGTDqWNvdXZyZXogIkx1bmNoIiBwb3VyIGxlIG1pZGksIGxlcyAiQmFucXVldCIgcG91ciB2b3Mgw6l2w6huZW1lbnRzIGV0IGxlICJCcnVuY2giIHBvdXIgbGUgZGltYW5jaGUuPC9oMj4NCjxoMiBzdHlsZT0icGFkZGluZy1ib3R0b206IDMlOyI+TW9uIGJ1dD8gdm91cyBwcm9wb3NleiB1bmUgc29sdXRpb24gZGUgcmVzdGF1cmF0aW9uIG91IHF1ZSB2b3VzIHNveWV6IHF1b2kgcXVlIHZvdXMgZmFzc2llei7CoDwvaDI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9ImNvbCBjb2wtbWQtNCBjb2wtc20tMTIgY29sLXhzLTEyIj4NCjxkaXYgc3R5bGU9InBhZGRpbmctcmlnaHQ6IDglOyB0ZXh0LWFsaWduOiBjZW50ZXI7IiBjbGFzcz0iYmFubmVyLWJveCI+PGEgaHJlZj0iIyI+PGltZyBzcmM9Imh0dHA6Ly8xMjcuMC4wLjE6ODA4MC9zdXN1L2ltZy9jbXMvMl8xLnBuZyIgd2lkdGg9IjIwNCIgaGVpZ2h0PSI0MTIiIHN0eWxlPSJ3aWR0aDogYXV0bzsiIC8+PC9hPjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2Pg==
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:33:52: Erreur de syntaxe pr&egrave;s de &#039;==
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang`&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = PGRpdiBjbGFzcz0iaG9tZS1iYW5uZXIgYmFubmVyLWJvdHRvbSI+DQo8ZGl2IGNsYXNzPSJyb3ciPg0KPGRpdiBjbGFzcz0iY29sIGNvbC1tZC04IGNvbC1zbS0xMiAgY29sLXhzLTEyIj4NCjxoMiBzdHlsZT0icGFkZGluZy1ib3R0b206IDMlOyI+QnkgUyd1c3UgZXN0IHVuIHNlcnZpY2UgdHJhaXRldXIgYmFzw6kgw6AgTHlvbiBldCBzIGFkYXB0ZSDDoCB2b3VzIGV0IMOgIHZvcyBtb21lbnRzLiBMYSBjdWlzaW5lIGJ5IFN1c3UgcyBhZHJlc3NlIMOgIHRvdXMsIGxlcyBwYXJ0aWN1bGllcnMsIGxlcyBwcm9mZXNzaW9ubmVscywgbGVzIGFzc29jaWF0aW9ucy4uLjwvaDI+DQo8aDIgc3R5bGU9InBhZGRpbmctYm90dG9tOiAzJTsiPkxhIGN1aXNpbmUgZXN0IGZhaXRlIHBvdXIgdm91cyBldCBzZSBkw6lwbGFjZSBwb3VyIHZvcyDDqXbDqG5lbWVudHMuIFJpZW4gbiBlc3QgZmlnw6kgZXQgdm9zIGVudmllcyBzb250IG1lcyBhbWJpdGlvbnMuIEJ5IFN1c3Ugdm91cyBwcm9wb3NlIGRlcyBwbGF0cyBsaXZyw6lzIGNsZWYgZW4gbWFpbiBhdmVjIGNvbW1lIGxpZ25lIGRlIGNvbmR1aXRlOiBkZXMgcHJvZHVpdHMgbG9jYXV4IGV0IGR1IDEwMCUgZmFpdCBtYWlzb248L2gyPg0KPGgyIHN0eWxlPSJwYWRkaW5nLWJvdHRvbTogMyU7Ij5CeSBTdXN1IHZvdXMgc2UgZMOpY2xpbmUgZW4gcGx1c2lldXJzIGF4ZXM6IGTDqWNvdXZyZXogIkx1bmNoIiBwb3VyIGxlIG1pZGksIGxlcyAiQmFucXVldCIgcG91ciB2b3Mgw6l2w6huZW1lbnRzIGV0IGxlICJCcnVuY2giIHBvdXIgbGUgZGltYW5jaGUuPC9oMj4NCjxoMiBzdHlsZT0icGFkZGluZy1ib3R0b206IDMlOyI+TW9uIGJ1dD8gdm91cyBwcm9wb3NleiB1bmUgc29sdXRpb24gZGUgcmVzdGF1cmF0aW9uIG91IHF1ZSB2b3VzIHNveWV6IHF1b2kgcXVlIHZvdXMgZmFzc2llei7CoDwvaDI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9ImNvbCBjb2wtbWQtNCBjb2wtc20tMTIgY29sLXhzLTEyIj4NCjxkaXYgc3R5bGU9InBhZGRpbmctcmlnaHQ6IDglOyB0ZXh0LWFsaWduOiBjZW50ZXI7IiBjbGFzcz0iYmFubmVyLWJveCI+PGEgaHJlZj0iIyI+PGltZyBzcmM9Imh0dHA6Ly8xMjcuMC4wLjE6ODA4MC9zdXN1L2ltZy9jbXMvMl8xLnBuZyIgd2lkdGg9IjIwNCIgaGVpZ2h0PSI0MTIiIHN0eWxlPSJ3aWR0aDogYXV0bzsiIC8+PC9hPjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2Pg==
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:35:29: Erreur de syntaxe pr&egrave;s de &#039;&lt;div class=\&quot;home-banner banner-bottom\&quot;&gt;
+&lt;div class=\&quot;row\&quot;&gt;
+&lt;div class=\&quot;col&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &lt;div class=\&quot;home-banner banner-bottom\&quot;&gt;
+&lt;div class=\&quot;row\&quot;&gt;
+&lt;div class=\&quot;col col-md-8 col-sm-12  col-xs-12\&quot;&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By S\&#039;usu est un service traiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez \&quot;Lunch\&quot; pour le midi, les \&quot;Banquet\&quot; pour vos &eacute;v&egrave;nements et le \&quot;Brunch\&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=\&quot;col col-md-4 col-sm-12 col-xs-12\&quot;&gt;
+&lt;div style=\&quot;padding-right: 8%; text-align: center;\&quot; class=\&quot;banner-box\&quot;&gt;&lt;a href=\&quot;#\&quot;&gt;&lt;img src=\&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png\&quot; width=\&quot;204\&quot; height=\&quot;412\&quot; style=\&quot;width: auto;\&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:36:15: Erreur de syntaxe pr&egrave;s de &#039;&lt;div class=\&quot;home-banner banner-bottom\&quot;&gt;
+&lt;div class=\&quot;row\&quot;&gt;
+&lt;div class=\&quot;col&#039; &agrave; la ligne 2&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = &lt;div class=\&quot;home-banner banner-bottom\&quot;&gt;
+&lt;div class=\&quot;row\&quot;&gt;
+&lt;div class=\&quot;col col-md-8 col-sm-12  col-xs-12\&quot;&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By S\&#039;usu est un service traiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez \&quot;Lunch\&quot; pour le midi, les \&quot;Banquet\&quot; pour vos &eacute;v&egrave;nements et le \&quot;Brunch\&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=\&quot;col col-md-4 col-sm-12 col-xs-12\&quot;&gt;
+&lt;div style=\&quot;padding-right: 8%; text-align: center;\&quot; class=\&quot;banner-box\&quot;&gt;&lt;a href=\&quot;#\&quot;&gt;&lt;img src=\&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png\&quot; width=\&quot;204\&quot; height=\&quot;412\&quot; style=\&quot;width: auto;\&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.7.7	2021/11/16 - 19:36:59: Champ &#039;&lt;div class=\&quot;home-banner banner-bottom\&quot;&gt;
+&lt;div class=\&quot;row\&quot;&gt;
+&lt;div class=\&quot;col col-md-8 col-sm-12  col-xs-12\&quot;&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By S\&#039;usu est un service traiteur bas&eacute; &agrave; &#039; inconnu dans field list&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;UPDATE `ps_pos_staticblock_lang` 
+                                SET `content` = `&lt;div class=\&quot;home-banner banner-bottom\&quot;&gt;
+&lt;div class=\&quot;row\&quot;&gt;
+&lt;div class=\&quot;col col-md-8 col-sm-12  col-xs-12\&quot;&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By S\&#039;usu est un service traiteur bas&eacute; &agrave; Lyon et s adapte &agrave; vous et &agrave; vos moments. La cuisine by Susu s adresse &agrave; tous, les particuliers, les professionnels, les associations...&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;La cuisine est faite pour vous et se d&eacute;place pour vos &eacute;v&egrave;nements. Rien n est fig&eacute; et vos envies sont mes ambitions. By Susu vous propose des plats livr&eacute;s clef en main avec comme ligne de conduite: des produits locaux et du 100% fait maison&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;By Susu vous se d&eacute;cline en plusieurs axes: d&eacute;couvrez \&quot;Lunch\&quot; pour le midi, les \&quot;Banquet\&quot; pour vos &eacute;v&egrave;nements et le \&quot;Brunch\&quot; pour le dimanche.&lt;/h2&gt;
+&lt;h2 style=\&quot;padding-bottom: 3%;\&quot;&gt;Mon but? vous proposez une solution de restauration ou que vous soyez quoi que vous fassiez.&nbsp;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class=\&quot;col col-md-4 col-sm-12 col-xs-12\&quot;&gt;
+&lt;div style=\&quot;padding-right: 8%; text-align: center;\&quot; class=\&quot;banner-box\&quot;&gt;&lt;a href=\&quot;#\&quot;&gt;&lt;img src=\&quot;http://127.0.0.1:8080/susu/img/cms/2_1.png\&quot; width=\&quot;204\&quot; height=\&quot;412\&quot; style=\&quot;width: auto;\&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;`
+                                WHERE `id_pos_staticblock` = 10 AND `id_lang` = 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
